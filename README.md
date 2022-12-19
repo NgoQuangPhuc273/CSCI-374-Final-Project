@@ -1,4 +1,4 @@
-# ECON 312: Predict The Academy Award Results Through Machine Learning
+# CSCI 374: Predict The Academy Award Results Through Machine Learning
 
 Phuc Ngo
 
