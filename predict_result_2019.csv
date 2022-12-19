@@ -1,0 +1,11 @@
+,Year,Movie,Oscar_nominee,Oscar_winner,Predicted Win Rate
+408,2019,1917,1,0,0.411
+402,2019,Once Upon a Time in Hollywood,1,0,0.185
+404,2019,Parasite,1,1,0.082
+400,2019,Joker,1,0,0.068
+407,2019,The Irishman,1,0,0.062
+418,2019,Jojo Rabbit,1,0,0.048
+413,2019,Marriage Story,1,0,0.034
+415,2019,Us,0,0,0.014
+464,2019,Dumbo,0,0,0.014
+419,2019,The Lion King,0,0,0.014

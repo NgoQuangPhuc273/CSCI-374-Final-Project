@@ -1,0 +1,11 @@
+,Year,Movie,Oscar_nominee,Oscar_winner,Predicted Win Rate
+107,2016,La La Land,1,0,0.731
+122,2016,Manchester by the Sea,1,0,0.083
+116,2016,Moonlight,1,1,0.074
+105,2016,Arrival,1,0,0.028
+131,2016,Ghostbusters,0,0,0.019
+104,2016,Doctor Strange,0,0,0.009
+103,2016,Suicide Squad,0,0,0.009
+195,2016,The Neon Demon,0,0,0.009
+139,2016,Sausage Party,0,0,0.009
+133,2016,Hell or High Water,1,0,0.009
